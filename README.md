@@ -18,7 +18,7 @@ npx hardhat test
 ```
 ## Deploying the ERC721 Contract
 Before deploying the ERC721 contract to the Goerli Ethereum Testnet, make sure to:<br />
-1. Rename =.env.= example to .env<br />
+1. Rename `.env.` example to .env<br />
 2. Add your wallet’s private key to the .env file<br />
 
 
