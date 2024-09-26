@@ -1,5 +1,8 @@
-# My NFT collection project
-This project is part of the Polygon-Advanced module, where I was tasked with deploying an NFT collection on the Ethereum blockchain, mapping it to Polygon, and transferring assets using the Polygon Bridge.
+# My Music NFT collection project
+This project is part of the Polygon-Advanced module, where I deployed a unique NFT collection featuring music-inspired images on the Ethereum blockchain. The collection is mapped to Polygon, and assets are transferred using the Polygon Bridge.
+## Collection Overview
+This NFT collection features music-themed images, each representing a different aspect of the music world. The collection includes various instruments. Each NFT is a one-of-a-kind digital asset tied to these images.
+
 ## Getting Started
 ### 1. Clone the repository
 First, clone this repository to your local machine to access all the project files:
